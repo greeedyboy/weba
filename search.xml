@@ -8,4 +8,17 @@
         <tag>hexo</tag>
       </tags>
   </entry>
+  <entry>
+    <title><![CDATA[testbypy]]></title>
+    <url>%2Fweba%2Fblog%2F2019%2F0421-iam-a-robot-index.html</url>
+    <content type="text"><![CDATA[自建try出错信息显示程序。 i am a robot,thank you.]]></content>
+      <categories>
+        <category>robot</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>try</tag>
+        <tag>except</tag>
+      </tags>
+  </entry>
 </search>
