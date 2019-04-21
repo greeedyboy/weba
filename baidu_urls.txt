@@ -1,2 +1,10 @@
 /weba/blog/2019/0422-hello-world.html
-/weba/blog/2019/0421-iam-a-robot-index.html
+/weba/blog/2019/0418-python-print-index.html
+/weba/blog/2019/0417-index.html
+/weba/blog/2019/0417-python-li-index.html
+/weba/blog/2019/0416-python-workflowy-set-index.html
+/weba/blog/2019/0413-python-gitee-index.html
+/weba/blog/2019/0412-python-list-com-index.html
+/weba/blog/2019/0412-python-selenium-google-index.html
+/weba/blog/2019/0410-index.html
+/weba/blog/2019/0409-update-next-index.html
